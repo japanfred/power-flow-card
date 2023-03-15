@@ -12,14 +12,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ulic75/power-distribution-card.git"
+    "url": "git+https://github.com/japanfred/power-distribution-card.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ulic75/power-distribution-card/issues"
+    "url": "https://github.com/japanfred/power-distribution-card/issues"
   },
-  "homepage": "https://github.com/ulic75/power-distribution-card#readme",
+  "homepage": "https://github.com/japanfred/power-distribution-card#readme",
   "scripts": {
     "build": "rollup -c",
     "lint": "eslint src/*",
